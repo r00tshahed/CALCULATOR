@@ -1,5 +1,5 @@
 # IMPORTING LIABRARIES
-# THIS CODE IS MADE BY SHOURYA PANT AND TEJAS DWIVEDI
+# THIS CODE IS MADE BY root shahed
 
 import math
 from tqdm import tqdm
@@ -10,9 +10,8 @@ import time
 def Welcome():
     print("\n\n---------------------------------------------------------",end="")
     print("\n|\n|  Welcome to the scientific Calculator app .....  \t|", end="\n")
-    print("|\n| MADE BY:  ", " SHOURYA PANT(0105CS191109) \t\t|", end="\n")
-    print("|\n| \t       AND  \t\t\t \t\t|")
-    print("|\n| \t     TEJAS DWIVEDI(0105CS191123) \t\t|",end="\n\n")
+    print("|\n| MADE BY:  ", " r00tshahed \t\t|", end="\n")
+  
     for i in tqdm (range (100), desc="Loading..."):
         time.sleep(0.02)
         pass
